@@ -1,0 +1,10 @@
+0 Spike Flower
+1 Raceme Flower
+2 Panicle Flower
+3 Umbel Flower
+4 Capitulum Flower
+5 Corymb Flower
+6 Cyme Flower
+7 Catkin Flower
+8 Spathe and Spadix Flower
+9 Verticillaster Flower
